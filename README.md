@@ -1,4 +1,4 @@
-The-Sound-of-Rain
+The Sound of Rain
 =================
 A sketch made in Processing using the supplied Minim library to detect microphone level inputs to adjust the amount of rain in the scene. 
 
